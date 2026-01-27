@@ -13,7 +13,7 @@ Google Apps Script to synchronize Firestore collections with Google Sheets and a
 - Fully spreadsheet-driven logic
 
 ## Architecture
-
+ 
 - **Firestore** → Source of truth
 - **Google Apps Script** → Data sync + processing
 - **Google Sheets** → Reporting & tracking
