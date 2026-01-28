@@ -12,7 +12,7 @@ Google Apps Script to synchronize Firestore collections with Google Sheets and a
 - Date normalization and formatting
 - Fully spreadsheet-driven logic
 
-## Architecture
+## Architecture 
  
 - **Firestore** → Source of truth
 - **Google Apps Script** → Data sync + processing
