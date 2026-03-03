@@ -32,7 +32,7 @@ Google Apps Script to synchronize Firestore collections with Google Sheets and a
 Edit the constants at the top of the script:
 
 ```js
-const CONFIG = {
+const CONFIG = { 
   SERVICE_ACCOUNT_FILE_ID: 'SERVICE_ACCOUNT_JSON_FILE_ID',
   PROJECT_ID: 'FIRESTORE_PROJECT_ID',
   COLLECTION: 'COLLECTION_NAME',
