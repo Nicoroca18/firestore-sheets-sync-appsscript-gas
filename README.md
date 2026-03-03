@@ -5,7 +5,7 @@ Google Apps Script to synchronize Firestore collections with Google Sheets and a
 ## Features
 
 - Secure authentication to Firestore using a Service Account (JWT)
-- Sync Firestore documents into Google Sheets
+- Sync Firestore documents into Google Sheets 
 - Append only new records (no duplicates)
 - Weekly tracking for coupons and recharges
 - Automated discount detection by SKU and campaign code
