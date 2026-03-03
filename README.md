@@ -19,7 +19,7 @@ Google Apps Script to synchronize Firestore collections with Google Sheets and a
 - **Google Sheets** → Reporting & tracking
 
 ## Requirements
-
+ 
 - Google Spreadsheet
 - Apps Script project bound to the spreadsheet
 - Firestore project
